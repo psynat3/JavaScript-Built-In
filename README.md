@@ -4,7 +4,7 @@ CIT 384, Homework 9 (JavaScript Built-In Objects)
 
 ## GitHub Pages Link
 
-[https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/](https://github.com/psynat3/JavaScript-Built-In)
+https://psynat3.github.io/JavaScript-Built-In/
 
 ## Screenshot
 
